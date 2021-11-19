@@ -4,7 +4,7 @@
 	    RUA VARCHAR(50), 
 	    BAIRRO VARCHAR(50), 
 	    CIDADE VARCHAR(50),
-	    CEP VARCHAR(50)
+	    
 
 	    PRIMARY KEY (ENDERECO_ID) 
 	);
